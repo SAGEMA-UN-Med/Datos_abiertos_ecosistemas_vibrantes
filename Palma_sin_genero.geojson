@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Palma_sin_genero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "natural": "tree", "denotation": "university", "age": "mature", "family": "Arecaceae", "leaf_type": "palm", "object_cit": "Medellin", "relation_s": "Volador", "source": "SAGEMA - Sistema de Gestión Ambiental Universidad Nacional de Colombia, sede Medellín" }, "geometry": { "type": "Point", "coordinates": [ -75.576413619999983, 6.261565130000065 ] } }
+]
+}
