@@ -8,6 +8,6 @@ https://github.com/SAGEMA-UN-Med/Datos_abiertos_ecosistemas_vibrantes/blob/main/
 https://github.com/SAGEMA-UN-Med/Datos_abiertos_ecosistemas_vibrantes/blob/main/Arboretum_Palmetum_Data_OSM.csv
 
 # Archivos para la importación
-
+Pueden acceder a los archivos .geojson en el repositorio del proyecto
  
 # Código de Phyton para la importacion de la etiqueta taxon=* al modelo de datos 
